@@ -4,7 +4,3 @@
 - 💞️ I’m currently working as a Solution Architect
 - 📫 How to reach me, just E-mail me
 
-<!---
-MrDeej/MrDeej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
